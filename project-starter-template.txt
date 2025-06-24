@@ -1,0 +1,56 @@
+==============================
+PROJECT STARTER TEMPLATE
+==============================
+
+The name of the application that I’m creating is:
+
+
+Definition of the application:
+------------------------------
+I want to make an app that can…
+State problem
+State Solution
+
+
+The functionalities I want the application to contain:
+-------------------------------------------------------
+Responsive Web Design
+Has basic CRUD operations
+Will read and extract…
+
+
+Step-by-step process of usage:
+------------------------------
+The user will…
+Action 1
+Action 2
+Action 3
+
+
+Now I want you to:
+==================
+
+1. Recommend the most suitable tech stack to utilize in this project, considering my credibility, industry standards, and specifically related to the functionalities I enumerated earlier.
+
+For context, I am well-experienced with: 
+
+Frontend:
+- HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React, Vite
+
+Backend:
+- Python, Java, Node.js
+
+Database:
+- MySQL
+- Firebase
+
+
+2. Recommend a folder structure for the project following this framework:
+
+
+3. Recommend a tool that I can use for the deployment of this application.
+
+
+4. Recommend a No-Code prototype using n8n.
+- Include a structure for the general workflow
+- Suggest APIs, tools, and bots to use.

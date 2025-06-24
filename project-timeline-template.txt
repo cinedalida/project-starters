@@ -1,0 +1,13 @@
+==============================
+PROJECT TIMELINE TEMPLATE
+==============================
+
+For project_name, can you suggest a timeline for this project?
+I need the project to be completed by: MM-DD-YY
+
+In the span of # weeks, provide a detailed structure of a possible schedule that I can follow for the development of front-end and back-end.
+
+Divide the time for each functionality, especially for the topics of:
+- Topic 1
+- Topic 2
+- Topic 3
