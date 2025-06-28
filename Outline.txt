@@ -1,0 +1,23 @@
+Prompt/Context Engineering
+
+Following the TCREI Framework:
+TASK-CONTEXT-RESOURCES-EVALUATE-ITERATE
+
+1. TASK
+	Specify what you want the AI to do
+2. CONTEXT
+	Additional information and direction
+3. RESOURCES
+	Examples of any additional information that you can provide to AI
+4. EVALUATE
+	Evaluate and revise
+5. ITERATE
+	more specific
+
+
+SRC:
+https://dlsudphl-my.sharepoint.com/:x:/g/personal/dfb0414_dlsud_edu_ph/EcpPARyvZn9MmUJkpT_bZV4Bc5S5fNV-kc9OTxmV8K56WA?e=iApCQO
+
+https://www.youtube.com/watch?v=13EPujO40iE
+
+
