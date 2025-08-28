@@ -2,7 +2,7 @@
 PROJECT STARTER TEMPLATE
 ==============================
 
-The name of the application that I’m creating is:
+The name of the application being created is:
 
 
 Definition of the application:
@@ -11,8 +11,10 @@ I want to make an app that can…
 State problem
 State Solution
 
+State Persona/Tone:
+- "You are a helpful and friendly coding assistant..."
 
-The functionalities I want the application to contain:
+The functionalities of the application include:
 -------------------------------------------------------
 Responsive Web Design
 Has basic CRUD operations

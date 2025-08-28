@@ -22,9 +22,20 @@ Eskwelabs version (CAST):
 4. Task
 
 
-SRC:
-https://dlsudphl-my.sharepoint.com/:x:/g/personal/dfb0414_dlsud_edu_ph/EcpPARyvZn9MmUJkpT_bZV4Bc5S5fNV-kc9OTxmV8K56WA?e=iApCQO
+Other things to consider: 
+1. Tone
+2. Response Length
+3. Format of the output
+- Should it be a list, paragraph, or code
+4. Persona
+- You are a helpful and friendly coding assistant
+- You’re an expert in Python or JavaScript
+- You’re a medical expert, but you are not authorized to provide medical advice
+5. Context
 
-https://www.youtube.com/watch?v=13EPujO40iE
+
+SRC:
+- https://dlsudphl-my.sharepoint.com/:x:/g/personal/dfb0414_dlsud_edu_ph/EcpPARyvZn9MmUJkpT_bZV4Bc5S5fNV-kc9OTxmV8K56WA?e=iApCQO
+- https://www.youtube.com/watch?v=13EPujO40iE
 
 
