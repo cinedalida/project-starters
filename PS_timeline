@@ -1,0 +1,157 @@
+Project Name: [Your Project Name]
+Timeline Constraints:
+
+Target Completion Date: [MM-DD-YYYY]
+Available Duration: [X weeks/months]
+Team Size: [Solo developer / X developers]
+Development Commitment: [Full-time / Part-time - X hours per week]
+
+Project Scope Overview:
+[Brief description of the application and its core purpose]
+
+PRIORITY FEATURES & FOCUS AREAS
+Critical Development Topics:
+
+[Topic 1 - e.g., User Authentication & Authorization]
+
+[Brief description of requirements]
+[Key deliverables expected]
+
+[Topic 2 - e.g., Data Management & CRUD Operations]
+
+[Brief description of requirements]
+[Key deliverables expected]
+
+[Topic 3 - e.g., API Integration & External Services]
+
+[Brief description of requirements]
+[Key deliverables expected]
+
+[Additional Topics as needed]
+
+DEVELOPMENT APPROACH
+Frontend Development Requirements:
+
+Technologies: [React, Vite, TailwindCSS, etc.]
+Key Components: [List major UI components needed]
+Integration Points: [API connections, third-party services]
+
+Backend Development Requirements:
+
+Technologies: [Node.js, Python, Java, etc.]
+Database: [MySQL, Firebase, etc.]
+API Endpoints: [Major API categories needed]
+Authentication: [Auth method requirements]
+
+TIMELINE DELIVERABLE REQUEST
+Please create a comprehensive development schedule that includes:
+Phase Breakdown
+
+Project Setup & Planning Phase
+
+Environment configuration
+Repository setup
+Initial architecture decisions
+Development tool setup
+
+Core Development Phases
+
+Frontend development timeline
+Backend development timeline
+Integration milestones
+Feature-specific development blocks
+
+Testing & Quality Assurance
+
+Unit testing schedules
+Integration testing periods
+User acceptance testing
+Bug fixing buffers
+
+Deployment & Launch
+
+Production environment setup
+Deployment preparation
+Go-live activities
+Post-launch monitoring
+
+Detailed Requirements for Each Phase:
+Time Allocation Specifics:
+
+Provide percentage breakdown of time for frontend vs backend
+Include buffer time for unexpected challenges (recommend 15-20%)
+Account for testing and debugging phases
+Schedule code review and refactoring periods
+
+Feature Development Priority:
+
+Arrange features by dependency relationships
+Identify which features can be developed in parallel
+Highlight critical path items that could delay the project
+Suggest MVP vs full-feature delivery options
+
+Risk Management:
+
+Identify potential bottlenecks in the timeline
+Suggest contingency plans for common delays
+Recommend checkpoints for progress evaluation
+Include time for stakeholder reviews and feedback incorporation
+
+ADAPTIVE SCHEDULING OPTIONS
+Please also provide:
+Option A: Conservative Timeline
+
+Includes generous buffer time
+Lower risk of delays
+Suitable for teams with less experience
+
+Option B: Aggressive Timeline
+
+Minimal buffer time
+Requires experienced developers
+Higher risk but faster delivery
+
+Option C: Phased Release Timeline
+
+MVP delivery first
+Feature increments in subsequent releases
+Allows for early user feedback
+
+DELIVERABLE FORMAT PREFERENCES
+Timeline Presentation:
+
+Weekly breakdown with specific tasks
+Gantt chart style scheduling
+Milestone markers and dependencies
+Resource allocation recommendations
+
+Include practical guidance for:
+
+Daily/weekly task organization
+Progress tracking methods
+Team coordination (if applicable)
+Quality checkpoints
+Deployment readiness criteria
+
+PROJECT CONSTRAINTS & CONSIDERATIONS
+Technical Constraints:
+[Any specific limitations, integrations, or requirements]
+Resource Constraints:
+[Budget limitations, tool restrictions, etc.]
+External Dependencies:
+[Third-party services, client approvals, data sources]
+Quality Standards:
+[Performance requirements, security standards, accessibility needs]
+
+EXPECTED OUTPUT
+A comprehensive project timeline that includes:
+
+Week-by-week development schedule
+Task dependencies and critical path analysis
+Resource allocation recommendations
+Risk mitigation strategies
+Quality assurance integration
+Deployment preparation timeline
+Post-launch support planning
+
+Please ensure the timeline is realistic, accounts for potential delays, and includes specific actionable tasks that can be tracked and measured throughout the development process.
