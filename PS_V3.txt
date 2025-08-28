@@ -1,0 +1,86 @@
+Google AI Studio Prompt
+APPLICATION DEVELOPMENT BLUEPRINT
+
+PROJECT OVERVIEW
+Application Name: [Your App Name]
+Core Purpose: [What does your app do in one sentence]
+
+Problem Context:
+- Current Challenge: [Describe the problem]
+- Proposed Solution: [How your app solves it]
+- Target Users: [Who will use this app]
+
+FEATURE SPECIFICATIONS
+Essential Features:
+✓ Cross-device responsive interface
+✓ Complete CRUD functionality for [data type]
+✓ Data import/processing from [sources]
+✓ [Custom feature 1]
+✓ [Custom feature 2]
+
+User Interaction Flow:
+1. Entry: [How users start]
+2. Core Action: [Main functionality]
+3. Secondary Actions: [Supporting features]  
+4. Completion: [How session ends]
+🛠 TECHNICAL CONSTRAINTS
+Developer Experience Level:
+Frontend: HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React, Vite
+Backend: Python, Java, Node.js
+Database: MySQL, Firebase
+
+Requirements:
+- Industry-standard practices
+- Scalable architecture
+- Cost-effective deployment
+
+
+DELIVERABLE REQUESTS
+
+Phase 1: Architecture Planning
+Analyze requirements and recommend:
+1. Optimal technology stack with detailed justification
+2. Database schema design suggestions
+3. API architecture patterns
+4. Security considerations
+
+Phase 2: Structure Design
+Create comprehensive project organization:
+1. Directory structure with purpose explanations
+2. File naming conventions
+3. Component hierarchy planning
+4. Asset organization strategy
+
+Phase 3: Deployment Strategy
+Recommend deployment approach:
+1. Platform selection (Vercel, Netlify, AWS, etc.)
+2. Environment configuration
+3. CI/CD pipeline suggestions
+4. Performance optimization strategies
+
+Phase 4: Implementation Roadmap
+Provide development sequence:
+1. Setup and configuration steps
+2. Development milestone breakdown
+3. Testing strategy recommendations
+4. Launch preparation checklist
+🤖 AUTOMATION ENHANCEMENT (Optional)
+n8n Integration Planning:
+- Workflow automation opportunities
+- API integration points
+- Data processing pipelines
+- Notification and alert systems
+- Third-party service connections
+
+Expected Output:
+- Visual workflow diagrams
+- API endpoint specifications  
+- Automation trigger configurations
+- Integration documentation
+💡 ADDITIONAL GUIDANCE NEEDED
+Please also consider:
+- Modern development best practices
+- Performance optimization techniques
+- User experience enhancement suggestions
+- Maintenance and scaling considerations
+Focus on providing actionable, implementable recommendations that leverage my existing technical skills while introducing industry-standard improvements.

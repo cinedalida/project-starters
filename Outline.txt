@@ -15,6 +15,13 @@ TASK-CONTEXT-RESOURCES-EVALUATE-ITERATE
 	more specific
 
 
+Eskwelabs version (CAST):
+1. Context
+2. Audience
+3. Style
+4. Task
+
+
 SRC:
 https://dlsudphl-my.sharepoint.com/:x:/g/personal/dfb0414_dlsud_edu_ph/EcpPARyvZn9MmUJkpT_bZV4Bc5S5fNV-kc9OTxmV8K56WA?e=iApCQO
 

@@ -1,0 +1,73 @@
+
+Application Name: [Your App Name Here]
+
+Application Definition:
+
+I want to create an application that [describe your app's purpose and core functionality].
+
+Problem Statement:
+[Clearly define the problem your application solves]
+
+Solution Overview:
+[Explain how your application addresses the problem]
+
+Target Audience & Tone:
+[Define your target users and desired application tone/personality]
+
+Core Functionalities:
+
+Responsive web design for mobile and desktop compatibility
+Full CRUD operations (Create, Read, Update, Delete)
+Data reading and extraction capabilities from [specify sources]
+[Add additional specific features]
+
+User Journey:
+
+User [initial action/entry point]
+User [primary interaction/main feature usage]
+User [secondary actions/workflow steps]
+User [completion/exit actions]
+
+DEVELOPMENT ASSISTANCE REQUEST
+Context: I have experience with:
+
+Frontend: HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React, Vite
+Backend: Python, Java, Node.js
+Database: MySQL, Firebase
+
+Please provide:
+
+Technology Stack Recommendation
+
+Suggest the optimal tech stack considering my experience, industry standards, and the specified functionalities
+Justify each technology choice
+
+
+Project Architecture & Structure
+
+Recommend a comprehensive folder structure
+Include organization for components, services, assets, and configuration files
+Consider scalability and maintainability
+
+
+Deployment Strategy
+
+Suggest deployment platforms suitable for the tech stack
+Include environment setup recommendations
+Consider cost-effectiveness and ease of deployment
+
+
+Development Workflow
+
+Recommend development tools and practices
+Suggest testing strategies
+Include version control best practices
+
+
+
+OPTIONAL - Automation & No-Code Integration:
+5. n8n Workflow Automation
+
+Design a no-code prototype workflow structure
+Suggest relevant APIs, tools, and integrations
+Include automation triggers and actions for key application processes

@@ -1,0 +1,73 @@
+Cursor IDE Prompt
+
+PROJECT SCAFFOLD REQUEST
+Project: [Application Name]
+Objective: Build [brief app description] with the following specifications:
+
+Requirements:
+
+Problem: [Problem statement]
+Solution: [Solution overview]
+Users: [Target audience]
+
+Features:
+
+Responsive design (mobile-first)
+CRUD operations for [specify data entities]
+Data processing from [specify sources]
+[Additional features]
+
+User Flow:
+User Journey:
+Step 1: [Action] → 
+Step 2: [Action] → 
+Step 3: [Action] → 
+Step 4: [Outcome]
+
+My Tech Experience:
+
+Frontend: HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React, Vite
+Backend: Python, Java, Node.js
+Database: MySQL, Firebase
+
+Generate for me:
+
+Complete Tech Stack Selection
+Please recommend and set up:
+- Frontend framework + reasoning
+- Backend framework + reasoning  
+- Database choice + reasoning
+- Additional tools/libraries needed
+
+Full Project Structure
+Create the entire folder hierarchy with:
+- Component organization
+- Service layer architecture
+- Asset management
+- Configuration files
+- Environment setup
+
+Starter Code Templates
+Generate boilerplate code for:
+- Main application entry points
+- Database connection/models
+- API routes structure
+- Key components scaffolding
+- Configuration files
+
+Development Setup Instructions
+Provide step-by-step setup:
+- Installation commands
+- Environment configuration
+- Development server setup
+- Build process configuration
+
+
+Optional Enhancement:
+5. Automation Integration Setup
+
+n8n workflow templates for key processes
+API integration points for automation
+Webhook configurations for external triggers
+
+Please prioritize clean, production-ready code structure with proper error handling and documentation.
