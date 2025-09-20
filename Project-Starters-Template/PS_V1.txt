@@ -31,6 +31,7 @@ User [completion/exit actions]
 DEVELOPMENT ASSISTANCE REQUEST
 Context: I have experience with:
 
+[CHANGE THIS PART ACCORDING TO YOUR PREFERRED TECK STACK]
 Frontend: HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React, Vite
 Backend: Python, Java, Node.js
 Database: MySQL, Firebase
@@ -63,10 +64,10 @@ Recommend development tools and practices
 Suggest testing strategies
 Include version control best practices
 
-
+...
 
 OPTIONAL - Automation & No-Code Integration:
-5. n8n Workflow Automation
+Zapier, n8n, Pipedream (for data pipeline) Workflow Automation
 
 Design a no-code prototype workflow structure
 Suggest relevant APIs, tools, and integrations

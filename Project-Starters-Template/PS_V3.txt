@@ -64,8 +64,10 @@ Provide development sequence:
 2. Development milestone breakdown
 3. Testing strategy recommendations
 4. Launch preparation checklist
-🤖 AUTOMATION ENHANCEMENT (Optional)
-n8n Integration Planning:
+
+
+AUTOMATION ENHANCEMENT (Optional)
+Zapier, n8n, Pipedream (for data pipeline) Integration Planning:
 - Workflow automation opportunities
 - API integration points
 - Data processing pipelines
@@ -77,6 +79,8 @@ Expected Output:
 - API endpoint specifications  
 - Automation trigger configurations
 - Integration documentation
+
+
 💡 ADDITIONAL GUIDANCE NEEDED
 Please also consider:
 - Modern development best practices

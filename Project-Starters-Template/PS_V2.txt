@@ -64,9 +64,9 @@ Provide step-by-step setup:
 
 
 Optional Enhancement:
-5. Automation Integration Setup
+Automation Integration Setup
 
-n8n workflow templates for key processes
+Zapier, n8n, Pipedream workflow templates for key processes
 API integration points for automation
 Webhook configurations for external triggers
 
