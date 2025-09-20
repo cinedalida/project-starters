@@ -1,0 +1,38 @@
+Trello → Google Sheets Pipeline
+
+Project Goal: Create an automated system to track Trello board activities, card movements, and team productivity metrics in Google Sheets.
+
+Core Requirements:
+
+1. Automated Board Monitoring
+Connect via Trello REST API (completely free)
+Pull card data, list movements, member activities
+Track due dates, labels, and checklist completion
+Monitor multiple boards simultaneously
+
+2. Data Processing Pipeline
+Parse card movement history and timestamps
+Calculate time spent in each list/stage
+Extract member assignments and activity patterns
+Process checklist items and completion rates
+
+3. Centralized Board Dashboard
+- Board Name/ID
+- Total Cards
+- Active Members
+- Last Activity Date
+- Sync Status
+- Board Analytics Button
+
+Technical Specifications:
+- Trello API key and token (free, unlimited requests)
+- No rate limiting for reasonable usage
+- Real-time webhook support available
+- JSON data parsing and transformation
+
+Key Features:
+- Card lifecycle tracking (created → completed)
+- Team productivity metrics
+- Due date monitoring and alerts
+- Board activity heatmaps
+

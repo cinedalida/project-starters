@@ -1,0 +1,44 @@
+Google Drive → Google Sheets Pipeline
+
+Project Goal: Create a file management and audit system that tracks Google Drive folder contents, sharing permissions, and file activities in Google Sheets.
+
+Core Requirements:
+
+1. Automated File Scanning
+
+- Use Google Drive API (completely free with Google account)
+- Scan specified folders recursively
+- Track file metadata, permissions, and sharing status
+- Monitor file creation, modification, and access
+
+2. Data Processing Pipeline
+
+- Extract file type, size, and ownership information
+- Parse sharing permissions and access levels
+- Calculate storage usage by folder/owner
+- Process file revision history and activity
+
+3. Centralized File Audit Dashboard
+- Folder Name/ID
+- File Count
+- Total Size
+- Last Scan Date
+- Permission Issues Count
+- Scan Folder Button
+
+Technical Specifications:
+
+- Google Apps Script built-in Drive API access
+- No external authentication required
+- Access to all Drive files the script owner can see
+- Real-time file event triggers available
+
+Key Features:
+
+- File permission audit and security reports
+- Storage usage analytics by department/user
+- Duplicate file detection
+- Shared file tracking and access management
+- File activity timeline
+- Automated cleanup recommendations
+

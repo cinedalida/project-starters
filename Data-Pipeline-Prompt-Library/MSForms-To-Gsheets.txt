@@ -1,0 +1,38 @@
+Microsoft Forms → Google Sheets Pipeline
+
+Project Goal: Build a Google Apps Script automation that syncs Microsoft Forms responses to Google Sheets with automated processing and dashboard tracking.
+
+Core Requirements:
+
+Automated Data Retrieval System
+- Connect via Microsoft Graph API (free tier: 1000 requests/month)
+- Export responses as CSV/JSON from Forms
+- Trigger options: Manual button, scheduled intervals (hourly/daily)
+- Handle multiple forms simultaneously
+
+Data Processing Pipeline
+- Parse Microsoft Forms response structure
+- Handle multiple choice, text, and file upload responses
+- Normalize timestamp formats and user identification
+- Clean HTML formatting from rich text responses
+
+Centralized Form Tracker (Google Sheets)
+- Form Name/ID
+- Source Form URL
+- Response Count
+- Last Sync Date
+- Processing Status
+- Manual Sync Button
+
+Technical Specifications:
+- Use Microsoft Graph API with OAuth 2.0 authentication
+- Free Microsoft 365 account required
+- Process up to 1000 responses per sync
+- Built-in retry logic for API rate limits
+
+Key Features:
+- Form response deduplication
+- Automatic column mapping based on question types
+- Email notifications for new responses
+- Response analytics dashboard
+
