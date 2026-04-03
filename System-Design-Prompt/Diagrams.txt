@@ -1,0 +1,85 @@
+Instructions for Usage:  
+- Replace <Project Name>, <Description>, and <Core Functionalities> with your project-specific details.
+- Fill in requirements and tech stack depending on your target system.
+- Run the prompt in ChatGPT to automatically generate conceptual and operational frameworks, diagrams, and technical explanation suitable for academic submission or documentation.
+
+=====================================================
+
+# System Design & Analysis Project Starter Template
+
+Role:  
+Act as a system analyst, software engineer, and AI engineer. Analyze and design the following system/project:
+
+Project Name: <Insert Project Name>  
+Project Description: <Briefly describe the project purpose, scope, and target users>  
+
+Core Functionalities (customizable):  
+1. <Functionality 1 – e.g., User Authentication, Medication Reminders, Attendance Tracking>
+   - Description: <Explain what it does>
+   - Optional: <Add details such as customization options, triggers, or logs>
+
+2. <Functionality 2>
+   - Description: <Explain>
+
+3. <Functionality 3>
+   - Description: <Explain>
+
+(Add as many functionalities as needed)
+
+Project Goals/Objectives:  
+- Demonstrate understanding of the Software Development Life Cycle (SDLC)
+- Showcase full-stack development skills (frontend, backend, database)
+- Apply database design principles
+- Illustrate scalable system architecture and potential cloud deployment
+- Optionally integrate AI/ML features for advanced portfolio value
+- Serve as a foundation for future improvements and feature expansion
+
+System Requirements:  
+- <Requirement 1>
+- <Requirement 2>
+- <Requirement 3>
+
+(Add specific requirements like real-time processing, data logging, reporting, multi-user support, etc.)
+
+Analysis & Diagrams to Generate:
+
+1. Conceptual Framework
+   - Present in Input → Process → Output (IPO) format
+   - Include specific tools/technologies used in each process step
+   - Show how data flows through the system
+
+2. Operational Framework
+   - Step-by-step system workflow
+   - Include actual system components (e.g., camera, sensors, server, database, frontend dashboard)
+   - Mention algorithms or methods used in each step
+
+3. Use Case Diagram
+   - Identify actors (e.g., User, Admin, Caregiver, System)
+   - Illustrate interactions with the system
+   - Provide in Mermaid UML format
+
+4. Flowchart
+   - Include key decision points
+   - Present backend processing steps
+   - Provide in Mermaid diagram code
+
+5. State Diagram
+   - Show system states (e.g., Idle, Processing, Error, Completed)
+   - Include transitions based on events
+   - Provide in Mermaid diagram code
+
+6. Technical Explanation
+   - Write in a formal academic tone
+   - Clearly explain:
+     • Algorithms used (e.g., detection, recognition, AI logic)
+     • Database design and tables
+     • Backend services (API, server-side logic)
+     • Frontend interface/dashboard components
+     • How data flows between components
+
+7. Suggested Tech Stack
+   - Programming language(s)
+   - Libraries/Frameworks
+   - Database(s)
+   - AI/ML models (if applicable)
+   - Deployment options
